@@ -6,4 +6,5 @@
 
 ## 文章目录  
 [T001 React Native学习资源整理](https://mp.weixin.qq.com/s/n0E3n9sHAhSfYR69apr2-A)        
-[T002 React Native有用的第三方插件汇总](https://mp.weixin.qq.com/s/Z5cmoVoJNoSVNVCCtWQ0zw)
+[T002 React Native有用的第三方插件汇总](https://mp.weixin.qq.com/s/Z5cmoVoJNoSVNVCCtWQ0zw)     
+[T003 人工智能是下一次技术浪潮吗?](https://mp.weixin.qq.com/s/qqG1smApIFyzr5mWAx2qcQ)
